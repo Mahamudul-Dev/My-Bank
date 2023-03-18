@@ -1,4 +1,22 @@
-# banking_prokit
+# My Bank
+
+<img src="screenshots/one.png" height="500em" />
+
+<table>
+  <tr>
+    <td><img src="screenshots/two.jpeg" height="500em" /></td>
+    <td><img src="screenshots/three.jpeg" height="500em" /></td>
+    <td><img src="screenshots/four.jpeg" height="500em" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="screenshots/five.jpeg" height="500em" /></td>
+    <td><img src="screenshots/five.jpeg" height="500em" /></td>
+    <td><img src="screenshots/six.jpeg" height="500em" /></td>
+  </tr>
+</table>
 
 A new Flutter project.
 
