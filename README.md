@@ -1,20 +1,24 @@
 # My Bank
 
-<img src="screenshots/one.png" height="500em" />
-
 <table>
   <tr>
-    <td><img src="screenshots/two.jpeg" height="500em" /></td>
-    <td><img src="screenshots/three.jpeg" height="500em" /></td>
-    <td><img src="screenshots/four.jpeg" height="500em" /></td>
+    <td><img src="screenshots/1.png" height="500em" /></td>
+    <td><img src="screenshots/2.png" height="500em" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="screenshots/five.jpeg" height="500em" /></td>
-    <td><img src="screenshots/five.jpeg" height="500em" /></td>
-    <td><img src="screenshots/six.jpeg" height="500em" /></td>
+    <td><img src="screenshots/image1.png" height="500em" /></td>
+    <td><img src="screenshots/image2.png" height="500em" /></td>
+    <td><img src="screenshots/image3.png" height="500em" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="screenshots/image4.png" height="500em" /></td>
+    <td><img src="screenshots/image5.png" height="500em" /></td>
   </tr>
 </table>
 
